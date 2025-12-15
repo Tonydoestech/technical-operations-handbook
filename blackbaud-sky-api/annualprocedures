@@ -1,1 +1,32 @@
+Scheduling and Course Request
+**1st Task** -->  Make sure in core you have set up the years and terms for the following year.
+Go to Core --> settings --> School Information --> years & Terms 
+Term Name: 1st
+Description: Semester
+Sort Order: 10
+Start Date: 06/16/year
+End Date: 12/19/year
+Days to default beyond end date: 16
+Previous Year equivalent to roll over from: 1st Semester year - year (ex. 2025-2026) 
+[Repeat for 2nd semester BUT]
+Term Name: 2nd
+Description: Semester
+Sort Order: 20
+Start Date: 12/20/year
+End Date: 06/15/year
+Days to default beyond end date: 30
+Previous Year equivalent to roll over from: 2nd Semester year - year (ex. 2025-2026)
+
+**2nd Task** -->  In Lion's Den go to Academics --> scheduling request and schedules --> Course Request Setup 
+Fill in this to allow for teachers to submitt course request 
+[This can also be done by a data import]
+Signup Begin: date & time
+Signup End: date & time
+Recommend	by Teacher
+Approve by Manager 
+Min Request: 6
+Max Request: 8 
+Min Enroll: 7
+
+**3rd Task** --> In the same area select the "Offer Course" tab and select which course will be offered. 
 
